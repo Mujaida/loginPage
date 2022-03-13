@@ -1,0 +1,55 @@
+body{
+    color: #fff;
+    font-size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(../images/wallpaper.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    height:120%;
+    width:100%;
+}
+.page-lg {
+    padding: 100px;
+
+}
+h1 {
+    color: rgba(245, 169, 211, 0.938);
+    font-size: 55px;
+    font-family: 'Crimson Pro', serif;
+}
+td {
+    padding: 3px;
+}
+p {
+    text-decoration: none;
+    font-family: 'Crimson Pro', serif;
+    font-size: 20px;
+}
+.btn {
+    background: #c9669e;
+    background-image: -webkit-linear-gradient(top, #c9669e, #e396d0);
+    background-image: -moz-linear-gradient(top, #c9669e, #e396d0);
+    background-image: -ms-linear-gradient(top, #c9669e, #e396d0);
+    background-image: -o-linear-gradient(top, #c9669e, #e396d0);
+    background-image: linear-gradient(to bottom, #c9669e, #e396d0);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d184c0;
+    background-image: -webkit-linear-gradient(top, #d184c0, #c744c5);
+    background-image: -moz-linear-gradient(top, #d184c0, #c744c5);
+    background-image: -ms-linear-gradient(top, #d184c0, #c744c5);
+    background-image: -o-linear-gradient(top, #d184c0, #c744c5);
+    background-image: linear-gradient(to bottom, #d184c0, #c744c5);
+    text-decoration: none;
+  }
